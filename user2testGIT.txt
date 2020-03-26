@@ -1,1 +1,2 @@
 user 2 nhap
+user 1 da them 1 dong nay
